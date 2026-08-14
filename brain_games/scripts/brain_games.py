@@ -1,4 +1,6 @@
-def main():
-    print ("Welcome to the Brain Games!")
+from brain_games.cli import welcome_user
 
-main()
+
+def main():
+    print("Welcome to the Brain Games!")
+    print("Hello, ", welcome_user(), "!")
