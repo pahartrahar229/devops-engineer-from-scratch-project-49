@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com)](https://github.com)
+[![Actions Status](https://github.com/mihailpirko/devops-engineer-from-scratch-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/mihailpirko/devops-engineer-from-scratch-project-49/actions)
 # Brain Games
 
 Учебный проект: набор консольных игр на Python. Каждая игра задаёт пользователю

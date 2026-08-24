@@ -1,13 +1,15 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "Five console mind-training games: even/odd, calculator, GCD, progression, prime number check"
 readme = "README.md"
+authors = [
+    { name = "Michail", email = "pirkomihail85@gmail.com" }
+]
 requires-python = ">=3.14"
 dependencies = [
     "prompt>=0.4.1",
 ]
-
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
