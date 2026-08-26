@@ -1,10 +1,9 @@
 from brain_games.engine import run_game
-from brain_games.games.progression import generate_round
+from brain_games.games import progression
 
 
 def main():
-    description = 'What number is missing in the progression?'
-    run_game(description, generate_round)
+    run_game(progression)
 
 
 if __name__ == '__main__':
